@@ -28,7 +28,7 @@ const chartOption: any = {
     legend: { display: true },
     title: {
       display: true,
-      text: "CodeMobiles ChartJS",
+      text: "ChartJS",
       position: "top",
     },
   },
